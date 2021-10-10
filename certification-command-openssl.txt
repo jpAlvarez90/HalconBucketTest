@@ -1,0 +1,1 @@
+req -new -x509 -nodes -days 3650 -out C:\\Users\\admin\\Documents\\Datos\\www\\Node\\notifications-server\\server.crt -keyout C:\\Users\\admin\\Documents\\Datos\\www\\Node\\notifications-server\\server.key
